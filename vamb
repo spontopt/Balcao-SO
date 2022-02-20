@@ -1,0 +1,7 @@
+
+export MAXCLIENTES=20
+export MAXMEDICOS=10
+
+echo "As variaveis de ambiente foram carregadas com êxito!"
+echo  "MAXCLIENTES=20"
+echo  "MAXMEDICOS=10"
